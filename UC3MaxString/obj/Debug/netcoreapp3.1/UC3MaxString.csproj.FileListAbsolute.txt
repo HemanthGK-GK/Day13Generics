@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC3MaxString\bin\Debug\netcoreapp3.1\UC3MaxString.exe
+C:\Users\91807\Desktop\Batch67\UC3MaxString\bin\Debug\netcoreapp3.1\UC3MaxString.deps.json
+C:\Users\91807\Desktop\Batch67\UC3MaxString\bin\Debug\netcoreapp3.1\UC3MaxString.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC3MaxString\bin\Debug\netcoreapp3.1\UC3MaxString.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC3MaxString\bin\Debug\netcoreapp3.1\UC3MaxString.dll
+C:\Users\91807\Desktop\Batch67\UC3MaxString\bin\Debug\netcoreapp3.1\UC3MaxString.pdb
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.dll
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.pdb
+C:\Users\91807\Desktop\Batch67\UC3MaxString\obj\Debug\netcoreapp3.1\UC3MaxString.genruntimeconfig.cache
