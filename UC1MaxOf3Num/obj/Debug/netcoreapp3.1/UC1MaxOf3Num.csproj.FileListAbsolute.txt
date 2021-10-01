@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\bin\Debug\netcoreapp3.1\UC1MaxOf3Num.exe
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\bin\Debug\netcoreapp3.1\UC1MaxOf3Num.deps.json
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\bin\Debug\netcoreapp3.1\UC1MaxOf3Num.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\bin\Debug\netcoreapp3.1\UC1MaxOf3Num.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\bin\Debug\netcoreapp3.1\UC1MaxOf3Num.dll
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\bin\Debug\netcoreapp3.1\UC1MaxOf3Num.pdb
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.dll
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.pdb
+C:\Users\91807\Desktop\Batch67\UC1MaxOf3Num\obj\Debug\netcoreapp3.1\UC1MaxOf3Num.genruntimeconfig.cache
