@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\bin\Debug\netcoreapp3.1\UC2MaxFloat.exe
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\bin\Debug\netcoreapp3.1\UC2MaxFloat.deps.json
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\bin\Debug\netcoreapp3.1\UC2MaxFloat.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\bin\Debug\netcoreapp3.1\UC2MaxFloat.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\bin\Debug\netcoreapp3.1\UC2MaxFloat.dll
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\bin\Debug\netcoreapp3.1\UC2MaxFloat.pdb
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.dll
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.pdb
+C:\Users\91807\Desktop\Batch67\UC2MaxFloat\obj\Debug\netcoreapp3.1\UC2MaxFloat.genruntimeconfig.cache
