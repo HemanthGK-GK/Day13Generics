@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\GenericsClass\bin\Debug\netcoreapp3.1\GenericsClass.exe
+C:\Users\91807\Desktop\Batch67\GenericsClass\bin\Debug\netcoreapp3.1\GenericsClass.deps.json
+C:\Users\91807\Desktop\Batch67\GenericsClass\bin\Debug\netcoreapp3.1\GenericsClass.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\GenericsClass\bin\Debug\netcoreapp3.1\GenericsClass.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\GenericsClass\bin\Debug\netcoreapp3.1\GenericsClass.dll
+C:\Users\91807\Desktop\Batch67\GenericsClass\bin\Debug\netcoreapp3.1\GenericsClass.pdb
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.dll
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.pdb
+C:\Users\91807\Desktop\Batch67\GenericsClass\obj\Debug\netcoreapp3.1\GenericsClass.genruntimeconfig.cache
