@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\bin\Debug\netcoreapp3.1\UC4MaxGenerics.exe
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\bin\Debug\netcoreapp3.1\UC4MaxGenerics.deps.json
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\bin\Debug\netcoreapp3.1\UC4MaxGenerics.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\bin\Debug\netcoreapp3.1\UC4MaxGenerics.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\bin\Debug\netcoreapp3.1\UC4MaxGenerics.dll
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\bin\Debug\netcoreapp3.1\UC4MaxGenerics.pdb
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.dll
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.pdb
+C:\Users\91807\Desktop\Batch67\UC4MaxGenerics\obj\Debug\netcoreapp3.1\UC4MaxGenerics.genruntimeconfig.cache
