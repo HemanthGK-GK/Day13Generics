@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\bin\Debug\netcoreapp3.1\UC5MaxMethod.exe
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\bin\Debug\netcoreapp3.1\UC5MaxMethod.deps.json
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\bin\Debug\netcoreapp3.1\UC5MaxMethod.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\bin\Debug\netcoreapp3.1\UC5MaxMethod.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\bin\Debug\netcoreapp3.1\UC5MaxMethod.dll
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\bin\Debug\netcoreapp3.1\UC5MaxMethod.pdb
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.dll
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.pdb
+C:\Users\91807\Desktop\Batch67\UC5MaxMethod\obj\Debug\netcoreapp3.1\UC5MaxMethod.genruntimeconfig.cache
